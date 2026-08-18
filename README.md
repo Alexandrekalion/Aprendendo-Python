@@ -51,4 +51,4 @@ Projeto de estudo, adequado como registro de pratica inicial em Python.
 
 ## Autoria
 
-Desenvolvido por Michele Santana — Kalion Tecnologia.
+Desenvolvido por Alexandre Santana dos Santos — Kalion Tecnologia.
